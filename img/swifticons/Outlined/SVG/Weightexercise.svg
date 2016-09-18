@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Weightexercise</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-360.000000, -360.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-374.000000, -361.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Weightexercise" transform="translate(376.000000, 367.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-871" stroke-linecap="round" cx="10" cy="10" r="10"></circle>
+                <circle id="Oval-872" stroke-linecap="round" cx="10" cy="10" r="4"></circle>
+                <path d="M10,20 L10,48.0713367" id="Line" stroke-linecap="square"></path>
+                <path d="M6.85976936,23 L36.220848,37.4021919 L55,37.4021919" id="Path-2068" stroke-linecap="round"></path>
+                <rect id="Rectangle-1077" stroke-linecap="round" x="9" y="40" width="47" height="5"></rect>
+                <path d="M50,44 L50,47" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

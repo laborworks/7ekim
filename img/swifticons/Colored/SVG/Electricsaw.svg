@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Electricsaw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-360.000000, -480.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-374.000000, -482.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Electicsaw" transform="translate(404.169863, 506.668224) rotate(-312.000000) translate(-404.169863, -506.668224) translate(370.669863, 495.168224)" sketch:type="MSShapeGroup">
+                <path d="M38.2904838,4.82686686 C38.2904838,2.61244917 40.0768708,0.943568904 42.2842637,1.0995851 L61.3633706,2.44807627 C63.5690743,2.60397309 65.5287209,4.51293582 65.7402701,6.71089062 L66.9073641,18.8367708 C67.1189553,21.0351613 65.498289,22.8173089 63.2886052,22.8173089 L42.2923623,22.8173089 C40.0821858,22.8173089 38.2904838,21.0169566 38.2904838,18.807751 L38.2904838,4.82686686 Z M42.2904838,7.81730895 C42.2904838,6.71273945 43.1886962,5.81730895 44.2812789,5.81730895 L60.2996886,5.81730895 C61.3991744,5.81730895 62.2904838,6.70503859 62.2904838,7.81730895 C62.2904838,8.92187845 61.3922714,9.81730895 60.2996886,9.81730895 L44.2812789,9.81730895 C43.1817931,9.81730895 42.2904838,8.9295793 42.2904838,7.81730895 Z" id="Rectangle-1104" stroke-linecap="round" fill="#F28544"></path>
+                <rect id="Rectangle-1105" stroke-linecap="round" fill="#D8D8D8" x="0.290483771" y="12.8173089" width="35" height="9"></rect>
+                <path d="M37.5035808,5.81730895 L33.2904838,5.81730895 L33.2904838,0.465271229" id="Path-2143" stroke-linecap="round"></path>
+                <path d="M33.2904838,4.81730895 L33.2904838,7.81730895" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

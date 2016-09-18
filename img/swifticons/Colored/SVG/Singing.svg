@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Singing</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -720.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-494.000000, -722.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Singing" transform="translate(490.000000, 720.000000)" sketch:type="MSShapeGroup">
+                <g id="Group" transform="translate(34.964630, 31.526075) rotate(-307.000000) translate(-34.964630, -31.526075) translate(20.964630, -0.973925)">
+                    <path d="M12.8814155,14.0793318 C14.1779656,12.597062 14.9824328,10.5311347 14.9824328,8.2459985 C14.9824328,3.73567305 11.848426,0.0793318383 7.98243277,0.0793318383 C4.11643952,0.0793318383 0.982432766,3.73567305 0.982432766,8.2459985 C0.982432766,10.5311347 1.78689998,12.597062 3.08345003,14.0793318 L12.8814155,14.0793318 Z" id="Oval-975" stroke-linecap="round" fill="#5ECB66"></path>
+                    <rect id="Rectangle-1189" stroke-linecap="round" fill="#D8D8D8" x="3.98243277" y="14.0793318" width="8" height="4"></rect>
+                    <path d="M3.98243277,18.0793318 L11.9824328,18.0793318 L10.9824328,44.0793318 L4.98243277,44.0793318 L3.98243277,18.0793318 Z" id="Rectangle-1189" stroke-linecap="round" fill="#E4AD40"></path>
+                    <rect id="Rectangle-1191" stroke-linecap="round" fill="#D8D8D8" x="5.98243277" y="44.0793318" width="4" height="4"></rect>
+                    <rect id="Rectangle-1192" stroke-linecap="round" x="4.98243277" y="4.07933184" width="2" height="2"></rect>
+                    <rect id="Rectangle-1193" stroke-linecap="round" x="8.98243277" y="4.07933184" width="2" height="2"></rect>
+                    <rect id="Rectangle-1194" stroke-linecap="round" x="6.98243277" y="8.07933184" width="2" height="2"></rect>
+                    <path d="M7.98243277,48.0793318 L7.98243277,58.0793318" id="Line" stroke-linecap="square"></path>
+                    <path d="M7.98243277,59.0793318 C7.98243277,61.8407556 10.221009,64.0793318 12.9824328,64.0793318 C15.7438565,64.0793318 17.9824328,61.8407556 17.9824328,59.0793318" id="Oval-976" stroke-linecap="round"></path>
+                    <path d="M17.9824328,54.0793318 C17.9824328,56.8407556 20.221009,59.0793318 22.9824328,59.0793318 C25.7438565,59.0793318 27.9824328,56.8407556 27.9824328,54.0793318" id="Oval-976" stroke-linecap="round" transform="translate(22.982433, 56.579332) rotate(-180.000000) translate(-22.982433, -56.579332) "></path>
+                </g>
+                <ellipse id="Oval-976" stroke-linecap="round" fill="#D8D8D8" cx="40" cy="47.5" rx="4" ry="2.5"></ellipse>
+                <path d="M44,47 L44,34.9584054" id="Line" stroke-linecap="round"></path>
+                <ellipse id="Oval-977" stroke-linecap="round" fill="#D8D8D8" cx="51" cy="50.5" rx="4" ry="2.5"></ellipse>
+                <path d="M55,50 L55,37.9584054 L44.1609018,34.9312652" id="Line-273" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

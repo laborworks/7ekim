@@ -1,0 +1,196 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+.section-header, .steps-header, .steps-name {
+    color: #f1b2cb;
+    font-weight: 400;
+    font-size: 1.4em;
+}
+
+.steps-timeline {
+    margin-top: 20px;
+    position: relative;
+}
+
+.steps-header {
+    padding-top: 30px;
+    font-size: 7rem;
+    color: #4472bf;
+}
+
+[class^="steps-"] hr {
+    margin: 10px 30px;
+}
+
+.steps-timeline > .steps-one hr{
+    border: 1px solid #df3c41;
+}
+
+.steps-timeline > .steps-two hr {
+    border: 1px solid #b89c6e;
+}
+
+.steps-timeline > .steps-three hr{
+    border: 1px solid #2c7d65;
+}
+
+.steps-timeline > .steps-four hr{
+    border: 1px solid #152640;
+}
+
+@media screen and (max-width: 500px) {
+    .steps-timeline {
+        border-left: 2px solid #3498DB;
+        max-width: 350px;
+        margin: 10px auto;
+    }
+    #timeline h1#wedding_date{
+        margin: 0 !important;
+        padding: 10px !important;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .steps-timeline {
+        border-top: 2px solid #3498DB;
+        margin: 150px 0;
+        width: 100%;
+    }
+}
+
+.steps-timeline:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.steps-one,
+.steps-two,
+.steps-three,
+.steps-four{
+    outline: 1px dashed rgba(0, 128, 0, 0);
+}
+
+.steps-one h2 {
+    color: #df3c41;
+}
+.steps-two h2 {
+    color: #b89c6e;
+}
+.steps-three h2 {
+    color: #2c7d65;
+}
+.steps-four h2 {
+    color: #152640;
+}
+
+@media screen and (max-width: 500px) {
+    .steps-one,
+    .steps-two,
+    .steps-three,
+    .steps-four{
+        margin: 10px 0px;
+    }
+    .steps-section{
+        margin: 100px 0;
+        border: none;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .steps-one,
+    .steps-two,
+    .steps-three,
+    .steps-four{
+        float: left;
+        margin: -100px 0;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .steps-one,
+    .steps-two,
+    .steps-three{
+        padding-bottom: 25px;
+    }
+}
+
+@media screen and (min-width: 500px) and (max-width: 790px){
+    .steps-one,
+    .steps-two,
+    .steps-three{
+        padding-bottom: 25px;
+    }
+}
+
+@media screen and (min-width: 500px) {
+}
+
+.steps-img {
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: auto;
+    border: 8px solid #ff8c95;
+    border-radius: 50%;
+}
+
+.steps-two .steps-img {
+    border-color: #d6b27a;
+}
+
+.steps-three .steps-img {
+    border-color: #26c193;
+}
+
+.steps-four .steps-img {
+    border-color: #31739a;
+}
+
+@media screen and (max-width: 500px) {
+    .steps-img {
+        float: left;
+        margin-right: 20px;
+        width: 100%;
+        height:auto;
+    }
+}
+
+.steps-name,
+.steps-description {
+    margin: 0;
+    font-size: 3em;
+    text-align: center;
+}
+
+.steps-name i {
+    font-size: 0.7em;
+}
+
+.steps-one .steps-description {
+    color: #ff8c95;
+}
+.steps-two .steps-description {
+    color: #d6b27a;
+}
+.steps-three .steps-description {
+    color: #26c193;
+}
+.steps-four .steps-description {
+    color: #31739a;
+}
+
+.steps-description {
+    font-size: 2em;
+}
+
+@media screen and (min-width: 500px) {
+    .steps-name {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .steps-description {
+        text-align: center;
+    }
+}

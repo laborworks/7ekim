@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Cigarette</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-360.000000, -840.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-374.000000, -841.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Cigarette" transform="translate(376.000000, 844.000000)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-1263-+-Rectangle-1263-+-Rectangle-1263" transform="translate(29.250000, 36.066987) rotate(-330.000000) translate(-29.250000, -36.066987) translate(4.250000, 31.066987)">
+                    <rect id="Rectangle-1263" fill="#D8D8D8" x="1" y="1" width="10" height="9"></rect>
+                    <rect id="Rectangle-1263" x="9" y="1" width="26" height="9"></rect>
+                    <rect id="Rectangle-1263" fill="#D8D8D8" x="33" y="1" width="16" height="9"></rect>
+                </g>
+                <path d="M8.76334127,0 C8.76334127,0 3.90404212,2.25461238 7.07307765,8.56541225 C10.2421132,14.8762121 6.71966396,17.0940917 6.71966396,17.0940917" id="Path-1358"></path>
+                <path d="M13.7633413,0 C13.7633413,0 8.90404212,2.25461238 12.0730777,8.56541225 C15.2421132,14.8762121 11.719664,17.0940917 11.719664,17.0940917" id="Path-1357"></path>
+                <rect id="Rectangle-1266" x="2" y="27" width="2" height="2"></rect>
+                <rect id="Rectangle-1267" x="5" y="33" width="2" height="2"></rect>
+                <rect id="Rectangle-1268" x="0" y="31" width="2" height="2"></rect>
+                <rect id="Rectangle-1269" x="3" y="38" width="2" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

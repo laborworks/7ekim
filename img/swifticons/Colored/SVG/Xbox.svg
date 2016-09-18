@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Xbox</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(0.000000, -840.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-14.000000, -842.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Xbox" transform="translate(16.000000, 852.000000)" sketch:type="MSShapeGroup">
+                <path d="M33.2631117,39.1689504 C32.4501017,40.930103 29.9699367,42.2113953 27.0364977,42.2113953 C24.2377981,42.2113953 21.851689,41.045105 20.9323481,39.4085165 C19.057766,44.9895634 15.1915595,48.7155329 12.2365737,47.7553998 C9.24689589,46.7839946 10.9017792,43.7542937 11.8101364,36.8821828 C12.7184936,30.0100718 15.9422544,26.1777998 18.9319322,27.149205 C20.0711099,27.5193463 20.9104906,28.5325199 21.4108613,29.9597453 L32.8634681,29.9597453 C33.3638389,28.5325199 34.2032196,27.5193463 35.3423973,27.149205 C38.332075,26.1777998 41.5558358,30.0100718 42.464193,36.8821828 C43.3725502,43.7542937 45.0274336,46.7839946 42.0377558,47.7553998 C39.048078,48.726805 35.1256582,44.9014307 33.276786,39.2111871 C33.2722109,39.1971064 33.2676528,39.1830275 33.2631117,39.1689504 Z" id="Oval-994" fill="#E9E7D1"></path>
+                <circle id="Oval-997" cx="18" cy="35" r="2"></circle>
+                <path d="M37,32 L35,33" id="Line"></path>
+                <path d="M37,35 L35,36" id="Line-274"></path>
+                <path d="M1,8 C1,6.33649254 0.441525459,2.96063395 0.441525459,2.96063395 C0.197677681,1.32552097 1.34275388,0 2.99100514,0 L53.0089949,0 C54.6608814,0 55.7976351,1.3224629 55.5584745,2.96063395 C55.5584745,2.96063395 55,6.33649254 55,8 C55,9.66350746 55.5584745,13.039366 55.5584745,13.039366 C55.8023223,14.674479 54.6572461,16 53.0089949,16 L2.99100514,16 C1.33911861,16 0.202364922,14.6775371 0.441525459,13.039366 C0.441525459,13.039366 1,9.66350746 1,8 Z" id="Rectangle-1230" fill="#E9E7D1"></path>
+                <path d="M6,6 L25,6" id="Line"></path>
+                <circle id="Oval-997" fill="#E65F58" cx="48" cy="8" r="2"></circle>
+                <circle id="Oval-998" fill="#5ECB66" cx="40" cy="8" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

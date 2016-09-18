@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Target</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -600.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-494.000000, -601.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Target" transform="translate(496.000000, 603.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-943" stroke-linecap="round" cx="28" cy="28" r="25"></circle>
+                <path d="M22.4330653,10.8773766 C17.028486,12.6333105 12.7455872,16.8769014 10.9356295,22.2568889 M45.1226234,22.4330653 C43.3666895,17.028486 39.1230986,12.7455872 33.7431111,10.9356295 M33.5669347,45.1226234 C38.971514,43.3666895 43.2544128,39.1230986 45.0643705,33.7431111 M10.8773766,33.5669347 C12.6333105,38.971514 16.8769014,43.2544128 22.2568889,45.0643705" id="Oval-944" stroke-linecap="round"></path>
+                <g id="Line-+-Line" transform="translate(27.000000, 0.000000)" stroke-linecap="round">
+                    <path d="M1,0 L1,6" id="Line"></path>
+                    <path d="M1,50 L1,56" id="Line"></path>
+                </g>
+                <g id="Line-+-Line-5" transform="translate(28.000000, 28.000000) rotate(-90.000000) translate(-28.000000, -28.000000) translate(27.000000, 0.000000)" stroke-linecap="round">
+                    <path d="M1,0 L1,6" id="Line"></path>
+                    <path d="M1,50 L1,56" id="Line"></path>
+                </g>
+                <path d="M28,25 L28,31" id="Line" stroke-linecap="square"></path>
+                <path d="M25,28 L31,28" id="Line-271" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

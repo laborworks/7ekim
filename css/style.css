@@ -3,36 +3,37 @@
 @import "colors.css";
 @import "svg_animations.css";
 
-*{
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
   outline: none;
 }
+
 body {
   /* font-family: 'Ultra', serif; */
   /* font-family: 'Holtwood One SC', serif; */
   font-family: "Fredericka the Great", cursive;
   font-size: 13px;
   line-height: 16px;
-  height:100vh;
+  height: 100vh;
   width: 100vw;
   color: #383838;
   background: #f0f0f0;
 }
 
-footer{
+footer {
   font-family: 'Bungee Inline', cursive;
   min-height: 120px;
 }
 
-footer p{
-  height:100%;
+footer p {
+  height: 100%;
   padding: 60px;
   margin: auto;
 }
 
-footer code{
+footer code {
   font-family: "Satisfy", cursive;
   font-size: 1.5em;
 }
@@ -61,7 +62,7 @@ svg:not(:root) {
 */
 }
 
-.wrapper h1{
+.wrapper h1 {
   font-size: 7vw;
 }
 
@@ -77,21 +78,21 @@ div#countdown_wedding {
   padding: 40px;
   color: #000000;
   text-align: center;
-  background: rgba(255,255,255, 1);
+  background: rgba(255, 255, 255, 1);
 }
 
-#wheels:hover{
+#wheels:hover {
   filter: url(#drop-shadow-yellow);
 }
 
 #sun:hover,
-#balloon:hover{
+#balloon:hover {
   filter: url(#drop-shadow-yellow);
   cursor: pointer;
 }
 
 #sun > #active_text,
-#balloon> #active_text {
+#balloon > #active_text {
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
@@ -105,22 +106,24 @@ div#countdown_wedding {
   opacity: 1;
 }
 
-#sections{
+#sections {
   font-family: "Fredericka the Great", cursive;
   position: relative;
   padding: 20px 0;
-  margin: -40px 0;
+  margin: -20px 0;
 }
 
-#sections > section{
+#sections > section {
   width: 100%;
   height: 50vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-left: 14px;
+  margin-right: 14px;
 }
 
-#sections_header{
+#sections_header {
   height: 200px;
   position: relative;
   background: url(../img/images/1.png);
@@ -129,29 +132,29 @@ div#countdown_wedding {
   background-position: left -100px top;
 }
 
-#timeline{
+#timeline {
 }
 
 #timeline h1#wedding_date {
   font-size: 6rem;
-  padding: 30px;
+  padding: 15px;
   vertical-align: middle;
   margin: 30px -30px 0 30px;
-  text-align: right;
+  text-align: center;
   background: #4472bf;
   color: #f4f4f4;
   border: 2px solid #3498DB;
   width: 100%;
 }
 
-#social_media{
+#social_media {
   background: #FFFFFF !important;
 }
 
 #social_media h1 {
   padding: 50px;
-  font-size: 5em;
-  border-right: 10px solid #383838;
+  font-size: 9vmin;
+  border-right: 2vmin solid #383838;
   font-family: "Fredericka the Great", cursive;
 }
 

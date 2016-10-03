@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Playinggolf</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-240.000000, -480.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-254.000000, -482.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Playinggolf" transform="translate(259.000000, 485.000000)" sketch:type="MSShapeGroup">
+                <path d="M37.0941194,43.800231 C35.5672778,43.4523641 33.9858874,43.4428374 33.9858874,43.4428374 C33.9858874,43.4428374 32.9637639,46.0895532 29.5695999,46.8391628 C26.1754359,47.5887725 21.6466022,43.0804497 17.9543449,44.9598063 C14.2620876,46.8391628 16.6832085,52.9336713 18.0713945,52.9336712 C19.4595804,52.9336711 29.4008627,53.1748813 30.4411816,53.1748808 C31.4815005,53.1748802 34.4534104,50.3916718 36.3218283,46.5109865 C36.9881639,45.1270142 36.9048839,45.2959821 37.0941194,43.800231 Z" id="Path-2141" fill="#81A4E3"></path>
+                <path d="M37,40.3294493 L50.9812158,0.67885522" id="Path-2142"></path>
+                <circle id="Oval-918" fill="#D8D8D8" cx="5" cy="48" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

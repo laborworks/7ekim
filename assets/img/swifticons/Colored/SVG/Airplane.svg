@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Airplane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(0.000000, -720.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-14.000000, -722.000000)" stroke="#314E55" stroke-width="2" stroke-linejoin="round">
+            <g id="Airplane" transform="translate(44.949747, 750.945257) rotate(-45.000000) translate(-44.949747, -750.945257) translate(17.449747, 715.945257)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1170" stroke-linecap="round" fill="#E4AD40" x="20.1168825" y="0.883117546" width="14" height="52"></rect>
+                <path d="M30.1168825,7.88311755 C30.1168825,6.2262633 28.7737367,4.88311755 27.1168825,4.88311755 C25.4600282,4.88311755 24.1168825,6.2262633 24.1168825,7.88311755" id="Oval-968" stroke-linecap="round"></path>
+                <path d="M32.1168825,12.8831175 L54.1168825,24.8831175 L54.1168825,32.8831175 L32.1168825,26.8831175 L32.1168825,12.8831175 Z" id="Rectangle-1171" stroke-linecap="round" fill="#F28544"></path>
+                <path d="M32.1168825,29.8831175 L44.1168825,36.4831175 L44.1168825,40.8831175 L32.1168825,37.5831175 L32.1168825,29.8831175 Z" id="Rectangle-1171" stroke-linecap="round" fill="#F28544"></path>
+                <path d="M10.1168825,29.8831175 L22.1168825,36.4831175 L22.1168825,40.8831175 L10.1168825,37.5831175 L10.1168825,29.8831175 Z" id="Rectangle-1171" stroke-linecap="round" fill="#F28544" transform="translate(16.116882, 35.383118) scale(-1, 1) translate(-16.116882, -35.383118) "></path>
+                <path d="M0.116882454,12.8831175 L22.1168825,24.8831175 L22.1168825,32.8831175 L0.116882454,26.8831175 L0.116882454,12.8831175 Z" id="Rectangle-1171" stroke-linecap="round" fill="#F28544" transform="translate(11.116882, 22.883118) scale(-1, 1) translate(-11.116882, -22.883118) "></path>
+                <path d="M27.1168825,45.8831175 L27.1168825,55.8831175" id="Line" stroke-linecap="square"></path>
+                <path d="M22.0659457,55.912981 L22.0659457,63.3619427" id="Line" stroke-linecap="round"></path>
+                <path d="M32.1168825,55.2058742 L32.1168825,67.2474689" id="Line" stroke-linecap="round"></path>
+                <path d="M27.1168825,61.9337783 L27.1168825,69.7327323" id="Line" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

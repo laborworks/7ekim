@@ -1,0 +1,265 @@
+.header-image {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.headline {
+    padding: 120px 0;
+}
+
+.headline h1 {
+    font-size: 130px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.headline h2 {
+    font-size: 77px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+}
+
+.featurette-divider {
+    margin: 5px 0;
+    border-color: #cecece;
+}
+
+.featurette {
+    padding: 40px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.featurette .lead {
+    font-size: 3vw;
+}
+
+.featurette-red {
+    background: #ffa3a5;
+    color: #cc2a2f;
+}
+
+.featurette-green {
+    background: #83a290;
+    color: #185636;
+}
+
+.featurette-yellow {
+    background: #fed03b;
+    color: #a47411;
+}
+
+.featurette-night {
+    background: #05152d;
+    color: #061c4f;
+}
+
+.featurette-image {
+    max-width: 220px;
+}
+
+.featurette-image.pull-left {
+    margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+    margin-left: 40px;
+}
+
+.featurette-heading {
+    font-size: 5vw;
+    /*color: #3c3c3c;*/
+}
+
+@media (min-width: 1200px) {
+    .featurette {
+        max-width: 22%;
+        margin: 0 15px;
+        float: left;
+    }
+    .featurette-divider{
+        display: none;
+    }
+
+    .featurette-image.pull-left {
+        float: none!important;
+        margin-left: -25px !important;
+    }
+
+    .featurette-image.pull-right {
+        float: none!important;
+        margin-left: -25px !important;
+    }
+
+    .featurette-heading {
+        font-size: 3vw;
+    }
+
+    .featurette .lead {
+        font-size: 1.5vw;
+    }
+
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+    .featurette {
+        max-width: 700px;
+        margin: 0 auto;
+    }
+}
+
+@media(max-width:1200px) {
+    .headline h1 {
+        font-size: 140px;
+    }
+
+    .headline h2 {
+        font-size: 63px;
+    }
+
+    .featurette-divider {
+        margin: 20px 0;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 20px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 20px;
+    }
+
+    .featurette-heading {
+        font-size: 12vw;
+    }
+
+    .featurette .lead {
+        font-size: 9vw;
+    }
+}
+
+@media(max-width:991px) {
+    .headline h1 {
+        font-size: 105px;
+    }
+
+    .headline h2 {
+        font-size: 50px;
+    }
+
+    .featurette-divider {
+        margin: 15px 0;
+    }
+
+    .featurette-image {
+        max-width: 50%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-left: 10px;
+    }
+
+    .featurette-heading {
+        font-size: 10vw;
+        /*color: #3c3c3c;*/
+    }
+
+    .featurette .lead {
+        font-size: 8vw;
+    }
+}
+
+@media(max-width:768px) {
+    .container {
+        margin: 0 15px;
+    }
+
+    .featurette-divider {
+        margin: 15px 0;
+    }
+
+    .featurette-heading {
+        font-size: 10vw;
+        /*color: #3c3c3c;*/
+    }
+
+    .featurette .lead {
+        font-size: 8vw;
+    }
+}
+
+@media(max-width:668px) {
+    .headline h1 {
+        font-size: 70px;
+    }
+
+    .headline h2 {
+        font-size: 32px;
+    }
+
+    .featurette-divider {
+        margin: 10px 0;
+    }
+
+    .featurette-heading {
+        font-size: 10vw;
+        /*color: #3c3c3c;*/
+    }
+
+    .featurette .lead {
+        font-size: 8vw;
+    }
+}
+
+@media(max-width:640px) {
+    .headline {
+        padding: 75px 0 25px 0;
+    }
+
+    .headline h1 {
+        font-size: 60px;
+    }
+
+    .headline h2 {
+        font-size: 30px;
+    }
+
+    .featurette-heading {
+        font-size: 8vw;
+        /*color: #3c3c3c;*/
+    }
+
+    .featurette .lead {
+        font-size: 6vw;
+    }
+}
+
+@media(max-width:375px) {
+    .featurette-divider {
+        margin: 10px 0;
+    }
+
+    .featurette-image {
+        max-width: 100%;
+    }
+
+    .featurette-image.pull-left {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .featurette-image.pull-right {
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+}

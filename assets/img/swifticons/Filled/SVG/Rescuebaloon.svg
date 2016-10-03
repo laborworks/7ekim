@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rescuebaloon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M16.1624908,58 C16.1624908,58 9.00000004,58.24337 9,64.7871241"></path>
+    </defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-720.000000, -600.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-734.000000, -601.000000)">
+            <g id="Rescuebaloon" transform="translate(728.000000, 595.000000)">
+                <g id="Group" transform="translate(37.000000, 37.000000) rotate(-330.000000) translate(-37.000000, -37.000000) translate(10.000000, 10.000000)" stroke="#535353" stroke-width="2" sketch:type="MSShapeGroup" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M26.5,53 C41.1355459,53 53,41.1355459 53,26.5 C53,11.8644541 41.1355459,5.29354338e-13 26.5,5.29354338e-13 C11.8644541,5.29354338e-13 3.48165941e-13,11.8644541 3.48165941e-13,26.5 C3.48165941e-13,41.1355459 11.8644541,53 26.5,53 Z M26.5,41 C34.5081289,41 41,34.5081289 41,26.5 C41,18.4918711 34.5081289,12 26.5,12 C18.4918711,12 12,18.4918711 12,26.5 C12,34.5081289 18.4918711,41 26.5,41 Z" id="Oval-948"></path>
+                    <path d="M34.0728694,1.09782672 C31.6734034,0.383561344 29.1314945,-6.30606678e-13 26.5,-6.30606678e-13 C23.8685055,-6.30606678e-13 21.3265966,0.383561344 18.9271306,1.09782672 L19.8142208,13.6299924 C21.8147748,12.5886116 24.0886486,12 26.5,12 C28.9113514,12 31.1852252,12.5886116 33.1857792,13.6299924 L34.0728694,1.09782672 Z" id="Oval-946" fill="#D8D8D8"></path>
+                    <path d="M53.7578732,20.7828305 C51.3584072,20.0685651 48.8164982,19.6850038 46.1850038,19.6850038 C43.5535093,19.6850038 41.0116004,20.0685651 38.6121344,20.7828305 L39.4992246,33.3149962 C41.4997785,32.2736154 43.7736524,31.6850038 46.1850038,31.6850038 C48.5963552,31.6850038 50.870229,32.2736154 52.870783,33.3149962 L53.7578732,20.7828305 Z" id="Oval-949" fill="#D8D8D8" transform="translate(46.185004, 26.500000) rotate(-270.000000) translate(-46.185004, -26.500000) "></path>
+                    <path d="M14.3878656,20.7828305 C11.9883996,20.0685651 9.44649068,19.6850038 6.81499622,19.6850038 C4.18350176,19.6850038 1.64159285,20.0685651 -0.757873193,20.7828305 L0.129217045,33.3149962 C2.12977098,32.2736154 4.4036448,31.6850038 6.81499622,31.6850038 C9.22634763,31.6850038 11.5002215,32.2736154 13.5007754,33.3149962 L14.3878656,20.7828305 Z" id="Oval-949" fill="#D8D8D8" transform="translate(6.814996, 26.500000) scale(-1, 1) rotate(-270.000000) translate(-6.814996, -26.500000) "></path>
+                    <path d="M34.0728694,40.4678343 C31.6734034,39.7535689 29.1314945,39.3700076 26.5,39.3700076 C23.8685055,39.3700076 21.3265966,39.7535689 18.9271306,40.4678343 L19.8142208,53 C21.8147748,51.9586191 24.0886486,51.3700076 26.5,51.3700076 C28.9113514,51.3700076 31.1852252,51.9586191 33.1857792,53 L34.0728694,40.4678343 Z" id="Oval-946" fill="#D8D8D8" transform="translate(26.500000, 46.185004) scale(1, -1) translate(-26.500000, -46.185004) "></path>
+                </g>
+                <path d="M42.9225409,31.9331411 C42.9225409,31.9331411 33.6677663,27.1577508 34.3649962,34.8317156 C35.062226,42.5056804 29.0774591,43.5350446 29.0774591,43.5350446" id="Path-2270" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4" sketch:type="MSShapeGroup"></path>
+                <g id="Path-2271">
+                    <use stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,4" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use stroke="none" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

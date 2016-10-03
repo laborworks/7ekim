@@ -1,0 +1,255 @@
+/* external css: flickity.css */
+@import "colors.css";
+@import "svg_animations.css";
+@import 'https://fonts.googleapis.com/css?family=Alfa+Slab+One|Baloo+Chettan|Bungee|Bungee+Shade|Ewert|Bungee+Inline|Fredericka+the+Great|Reenie+Beanie|Sacramento';
+
+* { box-sizing: border-box; }
+
+html, body {
+    font-family: "Alfa Slab One", cursive;
+    height: 100%;
+    color: #000;
+}
+
+footer {
+    height: 15%;
+    background: #ffffff;
+    border-top: 1px solid #cecece;
+    position: relative;
+}
+
+h3 {
+    color: #000;
+    background: #FFF;
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+    border-bottom: 1px solid rgba(206, 206, 206, 0.2);
+    font-size: 12vw;
+}
+
+h5,h6{
+
+    color: #000000;
+}
+
+code{
+    font-family: "Satisfy", cursive;
+    font-size: 1em;
+}
+
+.flickity-viewport {
+    height: 100%;
+}
+
+.main-header {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-animation: opaque 4s linear forwards; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation: opaque 4s linear forwards; /* Firefox < 16 */
+    -ms-animation: opaque 4s linear forwards; /* Internet Explorer */
+    -o-animation: opaque 4s linear forwards; /* Opera < 12.1 */
+    animation: opaque 4s linear forwards;
+}
+
+.main-header h1{
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-size: 10vw;
+    text-align: center;
+    vertical-align: middle;
+    z-index: 2;
+}
+
+.cell-wrapper {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.cell-wrapper h1{
+    color: #000;
+}
+
+.cell-wrapper img{
+    margin: 0 auto;
+}
+
+img.clouds{
+    -webkit-animation-duration: 20s;
+    -webkit-animation-delay: 5s;
+    position: absolute;
+    top:10px;
+    left: 20px;
+    width: 100px;
+    margin: 0 10%;
+    z-index: -1;
+}
+img.sun {
+    margin:  0 auto;
+    top: 20px;
+    width: 40px;
+    left: 30px;
+    position: absolute;
+    z-index: -1;
+}
+img#heart {
+    width: 90px;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-delay: 2s;
+    margin: -10px auto 20px auto;
+    z-index: 1;
+}
+img#trees {
+    position: absolute;
+    bottom: -30px;
+    left: -90px;
+    width: 130%;
+    z-index: -1;
+}
+img#bunch_of_balloons1,
+img#bunch_of_balloons {
+    z-index: 1;
+    width: 100%;
+    position: absolute;
+    bottom: -125%;
+    -webkit-animation: propel-balloon 10s linear infinite, balloon-anim 2.5s linear infinite;
+    -moz-animation: propel-balloon 10s linear infinite, balloon-anim 2.5s linear infinite;
+    -ms-animation: propel-balloon 10s linear infinite, balloon-anim 2.5s linear infinite;
+    -o-animation: propel-balloon 10s linear infinite, balloon-anim 2.5s linear infinite;
+    animation: propel-balloon 10s linear infinite, balloon-anim 2.5s linear infinite;
+}
+
+.carousel {
+    height: 85%;
+}
+
+.carousel-cell {
+    width: 100%;
+    height: 100vh;
+    margin-right: 10px;
+    background: inherit;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.carousel-cell h2{
+    border-bottom: 1px solid #cecece;
+    font-size: 4.5em;
+}
+
+.carousel-cell.home.is-selected {
+    /*background: url(../img/images/kemal_ruya_red.png);
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;*/
+}
+.carousel-cell.where.is-selected {
+    background: #2888ae;
+}
+.carousel-cell.when.is-selected {
+    background-color: #e2545a;
+}
+.carousel-cell.program.is-selected {
+    background-color: #52dcaf;
+}
+
+.carousel-nav {
+    height: 15%;
+    top: 10px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.carousel-nav .carousel-cell {
+    height: 20vw;
+    width: 20vw;
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    line-height: 80px;
+    margin-right: 10px;
+    background: rgba(255, 255, 255, 0.66);
+    border: 3px solid black;
+}
+
+.carousel-nav .carousel-cell img{
+    width: 15vw;
+    height: 100%;
+    vertical-align: middle;
+    margin: 0 auto;
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+    -webkit-transition: opacity 0.5s ease-out 1s;
+    -moz-transition: opacity 0.5s ease-out 1s;
+    -o-transition: opacity 0.5s ease-out 1s;
+    transition: opacity 0.5s ease-out 1s;
+}
+
+.carousel-nav .carousel-cell img:visited{
+    -webkit-filter: grayscale(10%); /* Chrome, Safari, Opera */
+    filter: grayscale(10%);
+}
+
+.carousel-nav .carousel-cell.is-nav-selected {
+    background: rgba(255,255,255, 1);
+}
+
+.carousel-nav .carousel-cell.is-nav-selected img{
+    -webkit-filter: grayscale(0%); /* Chrome, Safari, Opera */
+    filter: grayscale(0%);
+}
+
+.box {
+    text-align: center;
+    margin: 15px auto;
+    width: 100%;
+    padding: 3px;
+    border: 3px solid rgba(0,0,0,0.12);
+}
+
+.box img {
+    width: 15vw;
+    margin: 0 auto;
+    padding: 5px;
+    border-bottom: 1px solid #267b61;
+}
+
+.box h3 {
+    font-size: 5vw;
+    background: none;
+}
+
+.box h4 {
+    font-size: 4vw;
+    background: none;
+    text-shadow: 0px 0px 5px rgba(0,0,0,0.6);
+}
+
+.box-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+
+.introjs-tooltip{
+    font-family: Tahoma, sans-serif;
+    direction: ltr !important;
+}
+.introjs-helperLayer {
+    height: auto;
+}
+
+#credits {
+    font-family: monospace;
+    text-transform: uppercase;
+}

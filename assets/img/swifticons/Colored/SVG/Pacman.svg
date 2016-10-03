@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Pacman</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -360.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-494.000000, -362.000000)" stroke="#314E55" stroke-width="2">
+            <g id="Pacman" transform="translate(498.000000, 378.000000)" sketch:type="MSShapeGroup">
+                <path d="M26.7806834,19.7228754 C24.5927182,24.6016865 19.6932185,28 14,28 C6.2680135,28 0,21.7319865 0,14 C0,6.2680135 6.2680135,0 14,0 C20.0209017,0 25.1540876,3.80076333 27.1311661,9.13389845 L14,14.5 L26.7806834,19.7228754 Z" id="Oval-873" stroke-linecap="round" stroke-linejoin="round" fill="#5ECB66"></path>
+                <path d="M16,6.5 C16,5.11928813 14.8807119,4 13.5,4 C12.1192881,4 11,5.11928813 11,6.5" id="Oval-874" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M30.8755347,13 L52.8582807,13 L52.8582807,37.0358395 L1.85828067,37.0358395" id="Path-2071" stroke-dasharray="5,2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

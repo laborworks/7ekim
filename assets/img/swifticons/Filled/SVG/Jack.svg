@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Jack</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="filled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-720.000000, -720.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-734.000000, -721.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Jack" transform="translate(736.000000, 721.000000)" sketch:type="MSShapeGroup">
+                <g id="Group" transform="translate(24.395184, 24.688077) rotate(-45.000000) translate(-24.395184, -24.688077) translate(18.895184, -4.311923)">
+                    <rect id="Rectangle-1200" stroke-linecap="round" fill="#D8D8D8" x="4.39648318e-13" y="19" width="10" height="33"></rect>
+                    <rect id="Rectangle-1201" stroke-linecap="round" x="1" y="4.86721774e-13" width="8" height="20"></rect>
+                    <path d="M2,7 L8,7" id="Line" stroke-linecap="square"></path>
+                    <path d="M2,13 L8,13" id="Line" stroke-linecap="square"></path>
+                    <rect id="Rectangle-1202" stroke-linecap="round" fill="#D8D8D8" x="2" y="52" width="6" height="6"></rect>
+                </g>
+                <path d="M44,56 C46.7614237,56 49,53.7614237 49,51 C49,48.2385763 46.7614237,46 44,46" id="Oval-978" stroke-linecap="round"></path>
+                <path d="M44,56 L18,56" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

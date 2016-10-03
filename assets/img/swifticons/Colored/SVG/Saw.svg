@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Saw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-120.000000, -480.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-134.000000, -482.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Saw" transform="translate(165.150912, 510.416468) rotate(-48.000000) translate(-165.150912, -510.416468) translate(130.150912, 498.416468)" sketch:type="MSShapeGroup">
+                <path d="M0.709516229,8.52395233 C0.709516229,4.26769072 4.15284862,0.817308948 8.41615961,0.817308948 L23.7095162,0.817308948 L17.7465533,23.8173089 L8.40560746,23.8173089 C4.15517364,23.8173089 0.709516229,20.3739766 0.709516229,16.1106656 L0.709516229,8.52395233 Z M4.70951623,7.31109208 C4.70951623,5.93381369 5.81917829,4.81730895 7.20951623,4.81730895 C8.5902281,4.81730895 9.70951623,5.9447469 9.70951623,7.31109208 L9.70951623,17.3235258 C9.70951623,18.7008042 8.59985417,19.8173089 7.20951623,19.8173089 C5.82880435,19.8173089 4.70951623,18.689871 4.70951623,17.3235258 L4.70951623,7.31109208 Z" id="Rectangle-1258" fill="#E4AD40"></path>
+                <path d="M60.228923,17.416941 L69.7095162,16.8173089 L63.7095162,3.81730895 L22.8862789,3.81730895 L18.725663,20.0419546 L27.9420798,19.4590312 L32.2637065,15.8013219 L37.004185,18.8858678 L40.4296142,18.669215 L44.0587872,15.328499 L48.5395971,18.1562718 L52.606127,17.8990704 L56.4760693,14.2424305 L60.228923,17.416941 Z" id="Rectangle-1260" fill="#EAEAEA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

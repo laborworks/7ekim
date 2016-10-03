@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Airplane</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(0.000000, -720.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-14.000000, -721.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Airplane" transform="translate(44.242641, 750.487067) rotate(-45.000000) translate(-44.242641, -750.487067) translate(16.742641, 715.487067)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1170" stroke-linecap="round" x="21" y="1" width="14" height="52"></rect>
+                <path d="M31,8 C31,6.34314575 29.6568542,5 28,5 C26.3431458,5 25,6.34314575 25,8" id="Oval-968" stroke-linecap="round"></path>
+                <path d="M33,13 L55,25 L55,33 L33,27 L33,13 Z" id="Rectangle-1171" stroke-linecap="round"></path>
+                <path d="M33,30 L45,36.6 L45,41 L33,37.7 L33,30 Z" id="Rectangle-1171" stroke-linecap="round"></path>
+                <path d="M11,30 L23,36.6 L23,41 L11,37.7 L11,30 Z" id="Rectangle-1171" stroke-linecap="round" transform="translate(17.000000, 35.500000) scale(-1, 1) translate(-17.000000, -35.500000) "></path>
+                <path d="M1,13 L23,25 L23,33 L1,27 L1,13 Z" id="Rectangle-1171" stroke-linecap="round" transform="translate(12.000000, 23.000000) scale(-1, 1) translate(-12.000000, -23.000000) "></path>
+                <path d="M28,46 L28,56" id="Line" stroke-linecap="square"></path>
+                <path d="M22.9490633,56.0298635 L22.9490633,63.4788252" id="Line" stroke-linecap="round"></path>
+                <path d="M33,55.3227567 L33,67.3643514" id="Line" stroke-linecap="round"></path>
+                <path d="M28,62.0506608 L28,69.8496148" id="Line" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

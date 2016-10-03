@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Rocketparty</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-840.000000, -960.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-854.000000, -961.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Rocketparty" transform="translate(864.010670, 964.000000)" sketch:type="MSShapeGroup">
+                <polygon id="Triangle-39" points="21 1.8189894e-12 33 16 9 16 "></polygon>
+                <rect id="Rectangle-1250" x="12" y="15" width="18" height="30"></rect>
+                <path d="M12,25 L30,16 L30,23 L12,32 L12,25 Z" id="Rectangle-1251"></path>
+                <path d="M12,36 L30,27 L30,34 L12,43 L12,36 Z" id="Rectangle-1252"></path>
+                <path d="M25.4814752,46.5389107 C19.7932883,46.7817655 23.4493966,53.4293398 16.5954357,52.5946341" id="Path-2445" transform="translate(21.038455, 49.603001) rotate(-55.000000) translate(-21.038455, -49.603001) "></path>
+                <path d="M41.1892046,12.807845 C41.1892046,12.807845 39.8379938,8.74176696 44.9136618,8.74176698" id="Path-2446"></path>
+                <path d="M32.6880816,6.62635334 C32.6880816,6.62635334 31.9772344,3.50832897 34.6474502,3.50832899" id="Path-2446" transform="translate(33.624861, 5.067341) rotate(96.000000) translate(-33.624861, -5.067341) "></path>
+                <path d="M1.18920459,22.807845 C1.18920459,22.807845 -0.162006189,18.741767 4.91366176,18.741767" id="Path-2448" transform="translate(2.969878, 20.774806) rotate(82.000000) translate(-2.969878, -20.774806) "></path>
+                <path d="M3.69045962,9.12083067 C3.69045962,9.12083067 2.9796124,6.00280631 5.64982825,6.00280633" id="Path-2447" transform="translate(4.627239, 7.561819) rotate(179.000000) translate(-4.627239, -7.561819) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

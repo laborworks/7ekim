@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Guitar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, -120.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-494.000000, -121.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Guitar" transform="translate(521.446740, 147.869131) rotate(-45.000000) translate(-521.446740, -147.869131) translate(506.446740, 116.369131)" sketch:type="MSShapeGroup">
+                <path d="M18.4259312,30 L19.4580041,30 C25.2801877,30 30,34.6581029 30,40.3961113 L30,42.6606406 C29.6312078,42.5670293 29.2445764,42.5172414 28.8461538,42.5172414 C26.2971473,42.5172414 24.2307692,44.5551177 24.2307692,47.0689655 C24.2307692,49.5828133 26.2971473,51.6206897 28.8461538,51.6206897 C29.2445764,51.6206897 29.6312078,51.5709018 30,51.4772904 L30,58.4461382 C30,60.9611666 27.9379785,63 25.3782459,63 L4.62175414,63 C2.06922981,63 0,60.960606 0,58.4461382 L0,51.4772904 C0.368792218,51.5709018 0.755423574,51.6206897 1.15384615,51.6206897 C3.70285269,51.6206897 5.76923077,49.5828133 5.76923077,47.0689655 C5.76923077,44.5551177 3.70285269,42.5172414 1.15384615,42.5172414 C0.755423574,42.5172414 0.368792218,42.5670293 0,42.6606406 L0,40.3961113 C0,34.6544976 4.72483331,30 10.5444664,30 L11.9356308,30" id="Rectangle-990"></path>
+                <path d="M10.8333333,0 L19.1666667,0 L20,14 L10,14 L10.8333333,0 Z" id="Rectangle-991"></path>
+                <circle id="Oval-827" cx="15" cy="44" r="4"></circle>
+                <rect id="Rectangle-991" x="12" y="12" width="6" height="24"></rect>
+                <path d="M19,3 L21,3" id="Line"></path>
+                <path d="M19,7 L21,7" id="Line"></path>
+                <path d="M19,11 L21,11" id="Line"></path>
+                <path d="M9,3 L11,3" id="Line-245"></path>
+                <path d="M9,7 L11,7" id="Line-243"></path>
+                <path d="M9,11 L11,11" id="Line-244"></path>
+            </g>
+        </g>
+    </g>
+</svg>

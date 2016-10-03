@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Swiss</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-720.000000, -240.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-734.000000, -241.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Swiss" transform="translate(745.000000, 244.000000)" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-1048" stroke-linecap="round" x="11" y="0" width="16" height="54" rx="16"></rect>
+                <circle id="Oval-854" stroke-linecap="round" cx="19" cy="8" r="3"></circle>
+                <path d="M26,16.5526267 L26,43.1367202 L35.1111469,39.9998996 L26,16.5526267 Z" id="Path-2020" stroke-linecap="round"></path>
+                <rect id="Rectangle-1049" stroke-linecap="round" x="28" y="37" width="2" height="2"></rect>
+                <path d="M26.2899375,11.0696691 L33.8539195,16.9416181 L33.5008965,22.5478708 L39.1133426,16.0256164" id="Path-2021" stroke-linecap="round"></path>
+                <path d="M11.9864568,9 L0.948789209,39.8437728 C0.948789209,39.8437728 7.25162068,39.9032122 12,28.2305213" id="Path-2022" stroke-linecap="round"></path>
+                <path d="M19,42 L19,48" id="Line" stroke-linecap="square"></path>
+                <path d="M16,45 L22,45" id="Line-247" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

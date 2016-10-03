@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Forrestroad</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-840.000000, 0.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-854.000000, -1.000000)" stroke="#535353" stroke-width="2" stroke-linejoin="round">
+            <g id="Forrestroad" transform="translate(856.000000, 5.000000)" sketch:type="MSShapeGroup">
+                <polygon id="Triangle-28" stroke-linecap="round" points="9 0 18 35 0 35 "></polygon>
+                <polygon id="Triangle-28" stroke-linecap="round" points="35 5 42 32 28 32 "></polygon>
+                <polygon id="Triangle-28" stroke-linecap="round" points="49 14 55 37 43 37 "></polygon>
+                <path d="M9,36 L9,43" id="Line" stroke-linecap="square"></path>
+                <path d="M35,32 L35,39" id="Line" stroke-linecap="square"></path>
+                <path d="M49.0016406,37 L49.0016406,42" id="Line" stroke-linecap="square"></path>
+                <path d="M56.0016406,46.5511855 C56.0016406,46.5511855 34.919468,31.3844622 5.00164063,45.7007234" id="Path-1896" stroke-linecap="round"></path>
+                <path d="M15.572053,42.0871823 C19.7442523,44.7718031 24.101175,49.4898756 24.716653,53.8640882" id="Path-1899" stroke-linecap="round"></path>
+                <path d="M23.8125115,40.7309616 C29.9926313,46.1318645 40.5220451,45.6634474 44.093946,53.5998432" id="Path-1900" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

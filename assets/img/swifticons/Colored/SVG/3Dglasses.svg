@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>3Dglasses</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="colored" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-360.000000, 0.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-374.000000, -2.000000)" stroke="#314E55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="3Dglasses" transform="translate(379.000000, 16.000000)" sketch:type="MSShapeGroup">
+                <path d="M0,13.104509 L25,13.104509 L25,26.199747 C25,26.199747 20.3180517,29.7902184 12.5,30.8926478 C4.68194825,31.9950771 0,29.7902184 0,29.7902184 L0,13.104509 Z" id="Rectangle-951" fill="#E65F58"></path>
+                <path d="M25,13.104509 L50,13.104509 L50,26.199747 C50,26.199747 45.3180517,29.7902184 37.5,30.8926478 C29.6819483,31.9950771 25,29.7902184 25,29.7902184 L25,13.104509 Z" id="Rectangle-951" fill="#81A4E3" transform="translate(37.500000, 22.152918) scale(-1, 1) translate(-37.500000, -22.152918) "></path>
+                <path d="M41.1051789,13.003176 L38.753557,0.575131643 L43.2160834,0.575131643 L49.9743298,13.003176 L41.1051789,13.003176 Z" id="Path-1871" fill="#EAEAEA"></path>
+                <path d="M2.35162187,13.003176 L0,0.575131643 L4.46252643,0.575131643 L11.2207727,13.003176 L2.35162187,13.003176 Z" id="Path-1872" fill="#EAEAEA" transform="translate(5.610386, 6.789154) scale(-1, 1) translate(-5.610386, -6.789154) "></path>
+                <path d="M8,17 L4,21" id="Line"></path>
+                <path d="M46,17 L42,21" id="Line" transform="translate(44.000000, 19.000000) scale(-1, 1) translate(-44.000000, -19.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Baseball</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="outlined" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities_sliced" sketch:type="MSLayerGroup" transform="translate(-480.000000, 0.000000)"></g>
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-494.000000, -1.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Baseball" transform="translate(497.000000, 4.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-804" cx="27" cy="27" r="27"></circle>
+                <path d="M48.5380153,11.1107406 C34.7801592,12.3543446 24,23.9182517 24,38 C24,43.8834587 25.8818172,49.3273954 29.076389,53.7627476" id="Oval-805"></path>
+                <path d="M39.0817686,10.8569057 L41.567701,15.328851" id="Line"></path>
+                <path d="M33,14 L36.5355127,18.0897388" id="Line"></path>
+                <path d="M28.1671958,18.7692961 L32.6581383,22.2480683" id="Line"></path>
+                <path d="M23.9955353,24.8223198 L29.3306746,27.1626089" id="Line"></path>
+                <path d="M21.4656101,31 L28,32" id="Line"></path>
+                <path d="M20.7477259,37.5 L27,38" id="Line"></path>
+                <path d="M21.2919714,43.9432356 L27,43" id="Line"></path>
+                <path d="M28.5937939,48.2665383 L24,50" id="Line"></path>
+                <path d="M6.36778197,34.3981782 C8.14684905,28.5913549 9.17075827,21.7817583 9.17075827,14.5 C9.17075827,10.315608 8.83265166,6.28712926 8.20743478,2.51524878" id="Oval-805" transform="translate(7.769270, 18.456713) rotate(20.000000) translate(-7.769270, -18.456713) "></path>
+                <path d="M10,10 L15,9" id="Line"></path>
+                <path d="M8,15 L12.9709821,15.5482701" id="Line"></path>
+                <path d="M5.81975445,20.6316964 L9.98716521,22.9874442" id="Line"></path>
+                <path d="M3.51088171,24.9123884 L6.91824774,28.0736607" id="Line"></path>
+            </g>
+        </g>
+    </g>
+</svg>
